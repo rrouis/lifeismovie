@@ -1,0 +1,43 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+  width: 100%;
+    font-family: font/ 
+}
+container{
+    width: 500px;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+.sidebar{
+    width: 560px;
+        padding: 50px;
+        margin-left: 10px;
+        float: right;
+        background: white;
+}
+.main{
+    padding-top: 10px;
+    padding-left: 50px;
+    float: left;
+    width: 960px;
+    color: ;
+}
+
+p{
+    font-size: 13px;
+  font-style: normal;
+}
+
+h2{
+    width: 1000px;
+    font-size: 17px;
+}
+h3{font-size: 16px;
+    color: #9bad29
+}
+
+    

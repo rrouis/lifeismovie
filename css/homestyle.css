@@ -1,0 +1,55 @@
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+  width: 100%;
+    padding-top: 150px;
+}
+.container{
+    width: 100%;
+    }
+
+img{
+    padding: 25px;
+}
+
+
+.btn{
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    font-size: 9px;
+    display: block;
+}
+
+.btn {
+    background: #fff;
+    color: dimgray;
+    width: 187px;
+    padding: 2px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+.transition, a, .button {
+  -moz-transition-property: all;
+  -o-transition-property: all;
+  -webkit-transition-property: all;
+  transition-property: all;
+  -moz-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -moz-transition-timing-function: linear;
+  -o-transition-timing-function: linear;
+  -webkit-transition-timing-function: linear;
+  transition-timing-function: linear;
+}
+
+.menu{
+    width: 1105px;
+    margin: auto;
+    padding: 50px;
+}
